@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/8march-rimmalove/static/css/main.787ecc74.css",
+    "main.js": "/8march-rimmalove/static/js/main.a80c2167.js",
+    "index.html": "/8march-rimmalove/index.html",
+    "main.787ecc74.css.map": "/8march-rimmalove/static/css/main.787ecc74.css.map",
+    "main.a80c2167.js.map": "/8march-rimmalove/static/js/main.a80c2167.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.787ecc74.css",
+    "static/js/main.a80c2167.js"
+  ]
+}
